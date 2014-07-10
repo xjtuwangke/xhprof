@@ -1,9 +1,9 @@
 {
-    "name": "facebook/xhprof",
+    "name": "xjtuwangke/xhprof",
     "type": "library",
     "description": "XHProf: A Hierarchical Profiler for PHP",
     "keywords": ["profiling", "performance"],
-    "homepage": "http://pecl.php.net/package/xhprof",
+    "homepage": "https://github.com/xjtuwangke/xhprof",
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.2.0"
